@@ -8,6 +8,7 @@
 - [PORTAL MESTRE ÁLVARO](http://www.mrv.com.br/mestrealvaro/)
 - [RESERVA REAL](http://www.mrv.com.br/reservareal/)
 - [TERRAZZO POTI](http://www.mrv.com.br/terrazzopoti/)
+- [FONTE DAS ARTES](http://www.mrv.com.br/fontedasartes/)
 - [PARQUE TRILHAS DO CERRADO](http://www.mrv.com.br/trilhasdocerrado/)
 - [PARK REAL RESORT](http://www.mrv.com.br/parkrealresort/)
 - [ALAMEDA DA COSTA](http://www.mrv.com.br/alamedadacosta/)
