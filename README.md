@@ -17,7 +17,7 @@
 
 ### GOOD LIFE:
 
-- [PLANO DE SAÚDE EMPRESARIAIS GOOD LIFE](http://www.goodlife.com.br/plano-de-saude-empresarial/)
+- [PLANOS DE SAÚDE EMPRESARIAIS GOOD LIFE](http://www.goodlife.com.br/plano-de-saude-empresarial/)
 
 ### CASA MAIS:
 
