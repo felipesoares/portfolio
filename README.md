@@ -2,7 +2,8 @@
  
 ### MRV:
 
-- [SERRA BONITA](http://www.mrv.com.br/serrabonita/)
+- [PLAZA FRAGA MAIA](http://www.mrv.com.br/plazafragamaia/)
+- [PARQUE SERRA BONITA](http://www.mrv.com.br/serrabonita/)
 - [ACQUAVILLE](http://www.mrv.com.br/acquaville/)
 - [MIRANTE DE ITAQUÁ](http://www.mrv.com.br/mirantedeitaqua/)
 - [PORTAL MESTRE ÁLVARO](http://www.mrv.com.br/mestrealvaro/)
