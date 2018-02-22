@@ -2,6 +2,9 @@
  
 ### MRV:
 
+- [RESERVA ITABORAÍ](http://www.mrv.com.br/reservaitaborai/)
+- [SPAZIO MENDOZA](http://www.mrv.com.br/mendonza/)
+- [OÁSIS DA SERRA](http://www.mrv.com.br/oasisdaserra/)
 - [PLAZA FRAGA MAIA](http://www.mrv.com.br/plazafragamaia/)
 - [PARQUE SERRA BONITA](http://www.mrv.com.br/serrabonita/)
 - [ACQUAVILLE](http://www.mrv.com.br/acquaville/)
@@ -28,7 +31,6 @@
 
 # SITES
  
-- [ALLER - DESIGN DE INTERIORES](http://aller.etc.br/)
 - [MITO CAFÉS ESPECIAIS](http://mitocafesespeciais.com.br/)
 - [LOG CP](https://www.logcp.com.br/)
 - [UNA BOM DESPACHO](http://bomdespacho.una.br/)
