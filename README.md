@@ -25,8 +25,6 @@
 
 ### CASA MAIS:
 
-- [RESIDENCIAL MAIS HORIZONTES](http://www.construtoracasamais.com.br/residencial-mais-horizontes/)
-- [RESIDENCIAL MAIS ALTO PETRÓPOLIS](http://www.construtoracasamais.com.br/residencial-mais-alto-petropolis/)
 - [RESIDENCIAL DONATELLO LIFESTYLE](http://www.construtoracasamais.com.br/residencial-donatello-lifestyle/)
 
 # SITES
