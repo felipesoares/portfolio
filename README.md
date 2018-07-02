@@ -34,6 +34,5 @@
 - [ALLER](http://aller.etc.br/)
 - [MITO CAFÉS ESPECIAIS](http://mitocafesespeciais.com.br/)
 - [LOG CP](https://www.logcp.com.br/)
-- [UNA BOM DESPACHO](http://bomdespacho.una.br/)
 
 _(Atenção: Alguns projetos já podem ter sofrido alterações de terceiros)_
