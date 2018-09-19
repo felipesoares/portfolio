@@ -34,4 +34,4 @@
 - [MITO CAFÉS ESPECIAIS - LOJA](http://mitocafesespeciais.com.br/loja/)
 - [LOG CP](https://www.logcp.com.br/)
 
-_(Alguns projetos estão sujeitos a alterações de terceiros)_
+_(Alguns projetos podem estar sujeitos a alterações de terceiros)_
