@@ -1,5 +1,9 @@
 # LANDING PAGES
  
+### METROCASA:
+
+- [VOCÊ MAIS PERTO](http://www.metrocasa.com.br/vocemaisperto/)
+
 ### MRV:
 
 - [RESERVA ITABORAÍ](http://www.mrv.com.br/reservaitaborai/)
@@ -23,14 +27,11 @@
 
 - [PLANOS DE SAÚDE EMPRESARIAIS GOOD LIFE](http://www.goodlife.com.br/plano-de-saude-empresarial/)
 
-### CASA MAIS:
-
-- [RESIDENCIAL DONATELLO LIFESTYLE](http://www.construtoracasamais.com.br/residencial-donatello-lifestyle/)
-
 # SITES
 
 - [ALLER](http://aller.etc.br/)
-- [MITO CAFÉS ESPECIAIS](http://mitocafesespeciais.com.br/)
+- [MITO CAFÉS ESPECIAIS - SITE](http://mitocafesespeciais.com.br/)
+- [MITO CAFÉS ESPECIAIS - LOJA](http://mitocafesespeciais.com.br/loja/)
 - [LOG CP](https://www.logcp.com.br/)
 
-_(Atenção: Alguns projetos já podem ter sofrido alterações de terceiros)_
+_(Alguns projetos estão sujeitos a alterações de terceiros)_
