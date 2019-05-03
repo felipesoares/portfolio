@@ -33,7 +33,6 @@
 # SITES
 
 - [LABORATÓRIO LUSTOSA](https://www.lustosa.com.br/)
-- [GEO BIG DATA](https://geobigdata.com.br/)
 - [ALLER](http://aller.etc.br/)
 - [MITO CAFÉS ESPECIAIS - INSTITUCIONAL](https://mitocafesespeciais.com.br/)
 - [LOG CP](https://www.logcp.com.br/)
